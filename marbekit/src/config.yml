@@ -13,8 +13,8 @@ kits:
   icon: "310 1 protection:4 unbreaking:3"
   cooldown: 10
   items:
-  - "310 1 protection:4 unbreaking:3"
-  - "311 1 protection:4 unbreaking:3"
-  - "312 1 protection:4 unbreaking:3"
-  - "313 1 protection:4 unbreaking:3"
-  - "276 1 sharpness:5 unbreaking:3 fireaspect:2"
+    - "310 1 protection:4 unbreaking:3"
+    - "311 1 protection:4 unbreaking:3"
+    - "312 1 protection:4 unbreaking:3"
+    - "313 1 protection:4 unbreaking:3"
+    - "276 1 sharpness:5 unbreaking:3 fireaspect:2"
