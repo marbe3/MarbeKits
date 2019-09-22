@@ -1,0 +1,8 @@
+name: 'MarbeKits'
+version: 0.1
+main: 'pl.c9f.marbekits.MarbeKitsPlugin'
+authors: [C9F]
+description: 'Just a simple kit plugin.'
+website: 'www.youtube.com/c/Marbe1337'
+commands:
+ kit:

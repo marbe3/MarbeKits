@@ -1,0 +1,20 @@
+mysql:
+ host: "localhost"
+ port: 3306
+ user: "root"
+ name: "minecraft"
+ password: ""
+
+
+kits:
+ default:
+  inventory-name: "test"
+  permission: "test.permission"
+  icon: - "310 1 lore:&c»_&6test_&c&l« protection:4 unbreaking:3"
+  cooldown: 10
+  items:
+  - "310 1 lore:&c»_&6Czapka_Wpierdolka_&c&l« protection:4 unbreaking:3"
+  - "311 1 lore:&c»_&6Kolczan_Prawilnosci_&c&l« protection:4 unbreaking:3"
+  - "312 1 lore:&c»_&6Dres_JP_&c&l« protection:4 unbreaking:3"
+  - "313 1 lore:&c»_&6Najki_Zapierdalajki_&c&l« protection:4 unbreaking:3"
+  - "276 1 lore:&c»_&6Obieracz_Do_Macior_&c&l« sharpness:5 unbreaking:3 fireaspect:2"
